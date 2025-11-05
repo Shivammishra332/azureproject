@@ -1,0 +1,9 @@
+{
+	"name": "ShivamAzureProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b9e09ad-6db3-4bbd-9ba1-e40101257da5",
+		"tenantId": "1a96d90c-5647-4799-80cd-65a5256c51c8"
+	}
+}
